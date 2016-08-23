@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test number one
+=======
+test number three
+>>>>>>> 8c56db3... test nr three added
 =======
 test number three
 >>>>>>> 8c56db3... test nr three added
